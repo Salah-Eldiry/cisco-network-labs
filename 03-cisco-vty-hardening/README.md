@@ -5,10 +5,8 @@ This project demonstrates the step-by-step implementation of basic remote manage
 ## 📋 Table of Contents
 1. [Project Scenario](#-project-scenario)
 2. [Network Devices & Credentials](#-network-devices--credentials)
-3. [Configuration Implementation](#-configuration-implementation)
-4. [Verification & Visual Assets](#-verification--visual-assets)
-5. [Key Security Takeaways](#-key-security-takeaways)
-
+3. [Verification & Visual Assets](#-verification--visual-assets)
+4. [Configuration Implementation](#-configuration-implementation)
 ---
 
 ## 📋 Project Scenario
@@ -28,6 +26,11 @@ Across all configured devices (**Branch**, **SW1**, and **SW2**), the standardiz
 
 ---
 
+## 🔍 Verification & Visual Assets
+![SW1/SW2](./assets/telnet-SW1-SW2.png)
+![telnet-router](./assets/telnet-connection-with-username.png)
+
+---
 ## 🛠️ Configuration Implementation
 
 ### 1. Router Hardening (Branch Gateway)
